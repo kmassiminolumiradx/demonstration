@@ -1,0 +1,10 @@
+
+This is code from MergeDemo2Bash!
+
+public string Main(){
+	string output = "";
+
+	if(git.state == constants.states.merging){
+		return "substantially diffent code!";
+	}
+}
