@@ -1,0 +1,6 @@
+
+This is code from MergeDemo1Bash!
+
+public void Main(){
+	console.WriteLine("etc");
+}
